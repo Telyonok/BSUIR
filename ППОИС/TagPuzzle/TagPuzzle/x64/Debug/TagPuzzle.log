@@ -1,0 +1,3 @@
+﻿  Menu.cpp
+C:\Users\life2\Desktop\ППИВИС\TagPuzzle\TagPuzzle\Menu.h(17,2): warning C4091: static : пропускается слева от "Menu", когда ни одна переменная не объявлена
+  TagPuzzle.vcxproj -> C:\Users\life2\Desktop\ППИВИС\TagPuzzle\x64\Debug\TagPuzzle.exe
