@@ -1,3 +1,6 @@
+/// 
+/// Creates, shuffles and lets player control puzzle board
+///
 #pragma once
 #include <iostream>
 #include "Tile.h"

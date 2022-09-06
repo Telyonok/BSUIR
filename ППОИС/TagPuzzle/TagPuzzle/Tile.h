@@ -1,3 +1,7 @@
+///
+/// Simulates a tag tile
+/// 
+
 #pragma once
 class Tile
 {

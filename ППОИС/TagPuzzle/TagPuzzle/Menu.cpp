@@ -37,6 +37,7 @@ void Menu::StartGame()
 {
 	puzzle = new Puzzle(LevelChoice());
 	Congratulate();
+	_sleep(5000);
 }
 
 void Menu::Congratulate()
