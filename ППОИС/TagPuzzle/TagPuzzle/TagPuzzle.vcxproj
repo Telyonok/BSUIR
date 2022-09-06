@@ -130,6 +130,7 @@
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="Puzzle.cpp" />
     <ClCompile Include="TagPuzzle.cpp" />
+    <ClCompile Include="Test.cpp" />
     <ClCompile Include="Tile.cpp" />
   </ItemGroup>
   <ItemGroup>

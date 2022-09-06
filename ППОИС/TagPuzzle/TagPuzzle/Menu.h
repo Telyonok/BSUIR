@@ -10,6 +10,7 @@ public:
 	void StartUpMenu();
 private:
 	Puzzle *puzzle;
+	int LevelChoice();
 	void PrintMenu();
 	void StartGame();
 	void Congratulate();
